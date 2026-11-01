@@ -1,7 +1,7 @@
 # PCD Assignment 03
 ## Segmentasi Citra dan Pengolahan Morfologi
-Nama: Chelsea Christofera Antonioli Purnomo 
-NIM: 25/558145/PA/23462
+Nama: Chelsea Christofera Antonioli Purnomo  
+NIM: 25/558145/PA/23462  
 Kelas: KOM B
 
 ## Tujuan
@@ -16,7 +16,7 @@ Eksperimen menggunakan dua gambar:
 | Gambar | Deskripsi | Penggunaan |
 |---|---|---|
 | Gambar 1 – Coins | Gambar koin dengan latar belakang bertekstur | Segmentasi Otsu dan operasi morfologi |
-| Gambar 2 – Binary Objects | Gambar objek putih dengan latar belakang hitam dan noise | Pengujian operasi morfologi |
+| Gambar 2 – Profile | Gambar profile pria dan noise pada foreground | Segmentasi Otsu dan operasi morfologi |
 
 ## Metode yang Digunakan
 ### 1. Otsu Thresholding
